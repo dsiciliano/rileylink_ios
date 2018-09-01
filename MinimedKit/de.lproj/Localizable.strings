@@ -11,7 +11,7 @@
 "Alkaline" = "Alkalisch";
 
 /* The format string description of a BasalProfileStartPumpEvent. (1: The index of the profile)(2: The basal rate) */
-"Basal Profile %1$@: %2$@ U/hour" = "Basalprofil %1$@: %2$@ E/Stunde";
+"Basal Profile %1$@: %2$@ U/hour" = "Basalratenprofil %1$@: %2$@ E/Stunde";
 
 /* Pump error code when bolus is in progress */
 "Bolus in progress" = "Bolus im Gang";
@@ -68,7 +68,7 @@
 "Pump responded unexpectedly" = "Pumpe hat unerwartet geantwortet";
 
 /* The format string describing a pump message. (1: The packet type)(2: The message type)(3: The message address)(4: The message data */
-"PumpMessage(%1$@, %2$@, %3$@, %4$@)" = "MensageMicroinfusadora(%1$@, %2$@, %3$@, %4$@)";
+"PumpMessage(%1$@, %2$@, %3$@, %4$@)" = "Pumpenmitteilung(%1$@, %2$@, %3$@, %4$@)";
 
 /* Describing the reservoir insulin data source */
 "Reservoir" = "Reservoir";
