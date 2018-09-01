@@ -38,7 +38,7 @@
 "Listening Off" = "Signal aus";
 
 /* The title of the cell showing device name */
-"Name" = "Nombre";
+"Name" = "Gerätebezeichnung";
 
 /* The title of the cell showing the last idle */
 "On Idle" = "im Leerlauf";
