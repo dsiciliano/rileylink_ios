@@ -5,7 +5,7 @@
 "%1$@  %2$@/%3$@  %4$@" = "%1$@  %2$@/%3$@  %4$@";
 
 /* The format string describing number of basal schedule entries: (1: number of entries) */
-"%1$@ basal schedule entries\n" = "%1$@ basale Zeitplaneinträge\n";
+"%1$@ basal schedule entries\n" = "%1$@ Basalratenzeitplaneinträge\n";
 
 /* The format string describing units of insulin remaining: (1: number of units) */
 "%1$@ Units of insulin remaining\n" = "%1$@ Insulineinheiten verbleiben\n";
@@ -29,7 +29,7 @@
 "Battery: %1$@ volts\n" = "Batterie: %1$@ Volt\n";
 
 /* The label indicating the best radio frequency */
-"Best Frequency" = "Beste Frequenz";
+"Best Frequency" = "Beste Radiofrequenz";
 
 /* The format string describing pump bolusing state: (1: bolusing) */
 "Bolusing: %1$@\n" = "Bolusing: %1$@\n";
@@ -41,7 +41,7 @@
 "Change Time" = "Zeit ändern";
 
 /* The title of the command to change pump time zone */
-"Change Time Zone" = "Zeitzone Aendern";
+"Change Time Zone" = "Zeitzone ändern";
 
 /* Progress message for changing pump time. */
 "Changing time…" = "Zeit ändern…";
@@ -81,19 +81,19 @@
 "Enabled Diagnostic LEDs" = "Diagnostische LEDs aktiviert";
 
 /* The title of the command to fetch recent glucose */
-"Fetch Enlite Glucose" = "Fetch Enlite Glucose";
+"Fetch Enlite Glucose" = "Enlite BZ-Werte abrufeb";
 
 /* The title of the command to fetch recent history */
-"Fetch Recent History" = "Recuperar Historia Reciente";
+"Fetch Recent History" = "Aktueller Pumpedatenspeicher abrufen";
 
 /* Progress message for fetching pump glucose. */
-"Fetching glucose…" = "Recuperar glucosa…";
+"Fetching glucose…" = "BZ-Werte der Pumpe abrufen…";
 
 /* Progress message for fetching pump history. */
-"Fetching history…" = "Recuperar historial…";
+"Fetching history…" = "Pumpendatenspeicher abrufen…";
 
 /* Progress message for fetching pump model. */
-"Fetching pump model…" = "Recuperar modelo de microinfusora…";
+"Fetching pump model…" = "Pumpenmodell abrufen…";
 
 /* The title of the cell showing firmware version */
 "Firmware" = "Firmware";
@@ -145,13 +145,13 @@
 "Pump Settings" = "Pumpeneinstellungen";
 
 /* The title of the command to read basal schedule */
-"Read Basal Schedule" = "Basalzeitplan lesen";
+"Read Basal Schedule" = "Basalratenzeitplan lesen";
 
 /* The title of the command to read pump status */
 "Read Pump Status" = "Pumpenstatus lesen";
 
 /* Progress message for reading basal schedule */
-"Reading basal schedule…" = "Basalzeitplan lesen…";
+"Reading basal schedule…" = "Basalratenzeitplan lesen…";
 
 /* Progress message for reading pump status */
 "Reading pump status…" = "Pumpenstand lesen…";
@@ -179,7 +179,7 @@
 "Succeeded" = "Erfolgreich";
 
 /* The format string describing pump suspended state: (1: suspended) */
-"Suspended: %1$@\n" = "Suspendiert: %1$@\n";
+"Suspended: %1$@\n" = "Pumpe unterbrochen: %1$@\n";
 
 /* The label indicating the results of each frequency trial */
 "Trials" = "Versuche";
@@ -188,7 +188,7 @@
 "Tune Radio Frequency" = "Stellen Sie die Radiofrequenz ein";
 
 /* Progress message for tuning radio */
-"Tuning radio…" = "Radio abstimmen…";
+"Tuning radio…" = "Radiofrequenz abstimmen…";
 
 /* The detail text for an unknown pump model */
 "Unknown" = "Unbekannt";
