@@ -60,7 +60,7 @@
 
 /* Button title to delete pump
    Title text for the button to remove a pump from Loop */
-"Delete Pump" = "Pumpe loeschen";
+"Delete Pump" = "Pumpe löschen";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Insulin Abgabelimits";
