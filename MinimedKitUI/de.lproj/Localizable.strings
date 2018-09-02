@@ -81,7 +81,7 @@
 "Enabled Diagnostic LEDs" = "Diagnostische LEDs aktiviert";
 
 /* The title of the command to fetch recent glucose */
-"Fetch Enlite Glucose" = "Enlite BZ-Werte abrufeb";
+"Fetch Enlite Glucose" = "Enlite BZ-Werte abrufen";
 
 /* The title of the command to fetch recent history */
 "Fetch Recent History" = "Aktueller Pumpedatenspeicher abrufen";
